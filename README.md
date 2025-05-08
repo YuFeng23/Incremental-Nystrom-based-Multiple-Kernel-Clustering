@@ -1,4 +1,4 @@
-code of AAAI2025 "Incremental-Nyström-based-Multiple-Kernel-Clustering"
+code of AAAI2025 "Incremental Nyström-based Multiple Kernel Clustering"
 
 Please run the "main.m"
 
